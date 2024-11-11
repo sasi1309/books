@@ -1,0 +1,501 @@
+Book_ID,Book_Title,Author,Genre,Publisher,Price,ISBN
+1,The Great Adventure,Jane Smith,Technology,XYZ Publishers,11.4,978-35-2793429517
+2,Understanding Python,Jane Smith,Fiction,XYZ Publishers,47.52,978-20-7964265290
+3,The Art of Cooking,Michael Clark,Technology,Global Books,19.15,978-11-6044220103
+4,Learning SQL,Michael Clark,History,Tech Books,30.94,978-30-3653533681
+5,Understanding Python,Emily Davis,History,Booktopia,11.57,978-57-7678664053
+6,The Great Adventure,Mary Jane,History,Tech Books,11.18,978-41-5519428633
+7,Learning SQL,Mary Jane,Non-Fiction,Tech Books,18.91,978-95-5202689422
+8,The Art of Cooking,Jane Smith,Food,ABC Publishers,40.86,978-40-3042138364
+9,Learning SQL,Emily Davis,Non-Fiction,Tech Books,19.41,978-41-9127661472
+10,Understanding Python,Mary Jane,Food,XYZ Publishers,37.75,978-27-2694532704
+11,Learning SQL,Emily Davis,History,ABC Publishers,44.39,978-6-8131275203
+12,Understanding Python,Emily Davis,Food,Global Books,16.22,978-17-6935230332
+13,The Art of Cooking,Jane Smith,Food,Tech Books,32.85,978-46-8226021069
+14,Understanding Python,Mary Jane,Non-Fiction,Global Books,35.99,978-99-6333036001
+15,Data Science for Beginners,Mary Jane,Technology,Tech Books,13.72,978-28-9659027418
+16,Learning SQL,John Doe,Technology,Booktopia,38.42,978-91-2689248283
+17,The Art of Cooking,Michael Clark,Non-Fiction,Global Books,44.19,978-29-9104435095
+18,The Great Adventure,John Doe,History,XYZ Publishers,12.03,978-11-5721038011
+19,Learning SQL,Mary Jane,Fiction,Tech Books,26.71,978-31-3407153629
+20,Understanding Python,Michael Clark,History,ABC Publishers,24.8,978-69-7843833414
+21,Data Science for Beginners,John Doe,Non-Fiction,Tech Books,14.45,978-28-5250466060
+22,The Great Adventure,John Doe,Technology,Booktopia,33.74,978-69-5088939621
+23,Understanding Python,John Doe,Food,XYZ Publishers,22.65,978-89-1617469346
+24,Learning SQL,John Doe,Food,ABC Publishers,20.15,978-48-5203381765
+25,The Great Adventure,John Doe,Food,ABC Publishers,16.12,978-48-9144740313
+26,Data Science for Beginners,Michael Clark,Fiction,Global Books,23.66,978-73-6925327820
+27,The Art of Cooking,Emily Davis,Food,Global Books,20.6,978-14-9565012475
+28,The Art of Cooking,Emily Davis,History,Tech Books,43.58,978-23-9782958321
+29,Learning SQL,Mary Jane,Fiction,Booktopia,20.17,978-78-1445737348
+30,Learning SQL,John Doe,Food,XYZ Publishers,10.5,978-11-5064510423
+31,The Great Adventure,Michael Clark,Fiction,Global Books,38.95,978-38-1303221188
+32,The Art of Cooking,John Doe,Non-Fiction,Tech Books,20.51,978-55-4936230629
+33,Learning SQL,Mary Jane,Non-Fiction,Tech Books,10.46,978-99-1264056413
+34,Data Science for Beginners,Michael Clark,Technology,XYZ Publishers,41.78,978-84-5888033979
+35,Data Science for Beginners,John Doe,Food,Global Books,15.81,978-89-5797440875
+36,Data Science for Beginners,John Doe,History,Tech Books,16.0,978-32-1800052074
+37,The Great Adventure,Emily Davis,Fiction,ABC Publishers,43.1,978-61-3902166392
+38,Understanding Python,John Doe,Technology,ABC Publishers,18.46,978-98-5768265020
+39,Learning SQL,Michael Clark,Fiction,ABC Publishers,17.41,978-24-3313139828
+40,The Art of Cooking,Jane Smith,Fiction,Tech Books,25.97,978-21-2797752576
+41,The Great Adventure,Michael Clark,History,ABC Publishers,48.26,978-80-6421599252
+42,Understanding Python,Michael Clark,Fiction,Booktopia,43.33,978-68-3918120685
+43,Data Science for Beginners,Emily Davis,Non-Fiction,ABC Publishers,24.4,978-62-3506533189
+44,Learning SQL,Jane Smith,Technology,Global Books,17.13,978-81-4095804641
+45,Understanding Python,Mary Jane,Food,XYZ Publishers,23.95,978-6-3331551662
+46,Understanding Python,Emily Davis,Food,Booktopia,32.85,978-82-5040806170
+47,Learning SQL,John Doe,Fiction,Global Books,15.02,978-58-8265935825
+48,Learning SQL,Emily Davis,Technology,XYZ Publishers,25.73,978-74-1419180149
+49,Understanding Python,Michael Clark,Fiction,Tech Books,46.19,978-33-6489522360
+50,Understanding Python,Jane Smith,Fiction,Global Books,42.09,978-65-7902803814
+51,The Great Adventure,Jane Smith,Technology,XYZ Publishers,34.71,978-16-1517075683
+52,Understanding Python,John Doe,Non-Fiction,ABC Publishers,12.52,978-88-3795140438
+53,Learning SQL,Jane Smith,Food,XYZ Publishers,18.62,978-33-7317645806
+54,The Art of Cooking,Emily Davis,Non-Fiction,XYZ Publishers,19.12,978-85-4636622626
+55,Understanding Python,Jane Smith,Technology,ABC Publishers,37.76,978-10-1240600368
+56,The Great Adventure,Emily Davis,History,Booktopia,17.83,978-55-7122296859
+57,The Great Adventure,Mary Jane,Non-Fiction,XYZ Publishers,24.99,978-83-9986657242
+58,Learning SQL,Mary Jane,Food,XYZ Publishers,35.39,978-67-6686560353
+59,Understanding Python,Jane Smith,Non-Fiction,ABC Publishers,42.2,978-62-7113732162
+60,The Great Adventure,Michael Clark,Fiction,Tech Books,31.25,978-33-6122190733
+61,The Art of Cooking,Mary Jane,Fiction,Booktopia,27.54,978-97-4036971159
+62,The Great Adventure,Jane Smith,Food,Global Books,36.63,978-33-6799115270
+63,The Art of Cooking,Emily Davis,Technology,Tech Books,36.36,978-65-5755881376
+64,Learning SQL,Emily Davis,Non-Fiction,Booktopia,34.81,978-92-2071954938
+65,The Great Adventure,John Doe,Technology,Tech Books,10.87,978-93-3527753282
+66,Data Science for Beginners,Jane Smith,Technology,ABC Publishers,15.61,978-12-6604204798
+67,Data Science for Beginners,Mary Jane,Food,XYZ Publishers,39.75,978-39-3644049669
+68,Understanding Python,Jane Smith,Fiction,XYZ Publishers,20.52,978-36-5080042605
+69,Understanding Python,Mary Jane,History,Booktopia,19.4,978-59-2551274817
+70,The Art of Cooking,Michael Clark,Food,ABC Publishers,47.46,978-43-6732934304
+71,Data Science for Beginners,Jane Smith,History,XYZ Publishers,39.26,978-63-5674017002
+72,Understanding Python,John Doe,Non-Fiction,ABC Publishers,11.25,978-95-8673809607
+73,The Art of Cooking,Jane Smith,Food,ABC Publishers,26.11,978-52-8174468605
+74,The Great Adventure,John Doe,Non-Fiction,Booktopia,31.26,978-65-6485221352
+75,Data Science for Beginners,Emily Davis,Food,Booktopia,44.14,978-37-6586684426
+76,Data Science for Beginners,Jane Smith,Technology,Tech Books,39.61,978-63-1662329371
+77,The Great Adventure,Jane Smith,Fiction,Global Books,40.44,978-68-1700865110
+78,The Art of Cooking,Mary Jane,Non-Fiction,Booktopia,15.31,978-20-6971402815
+79,The Great Adventure,John Doe,History,Global Books,22.75,978-87-5640277590
+80,Understanding Python,Emily Davis,Food,XYZ Publishers,29.48,978-3-7634685228
+81,The Art of Cooking,John Doe,Fiction,Tech Books,44.3,978-66-2063633007
+82,The Great Adventure,Jane Smith,History,Global Books,46.02,978-24-8515520556
+83,Understanding Python,Emily Davis,History,Global Books,40.25,978-99-5620969801
+84,Learning SQL,Jane Smith,History,ABC Publishers,34.08,978-88-6884993156
+85,Learning SQL,Michael Clark,Technology,Booktopia,14.63,978-2-5973276105
+86,Data Science for Beginners,John Doe,Technology,ABC Publishers,21.22,978-73-5768215394
+87,The Great Adventure,Mary Jane,History,XYZ Publishers,11.94,978-84-9455504680
+88,Data Science for Beginners,Emily Davis,Fiction,Global Books,25.83,978-14-9065594239
+89,The Art of Cooking,Emily Davis,Technology,Tech Books,13.05,978-60-1504124341
+90,The Great Adventure,Michael Clark,History,Tech Books,49.34,978-56-1388326605
+91,The Art of Cooking,Michael Clark,Non-Fiction,ABC Publishers,20.8,978-17-4474196234
+92,The Art of Cooking,Jane Smith,Technology,ABC Publishers,31.61,978-53-8461933893
+93,Understanding Python,Emily Davis,History,Global Books,13.67,978-59-9294099905
+94,The Great Adventure,Mary Jane,Food,Booktopia,27.12,978-20-1550806569
+95,Understanding Python,John Doe,Technology,XYZ Publishers,39.6,978-6-3516195175
+96,Understanding Python,Mary Jane,History,Tech Books,10.67,978-10-5778682539
+97,Data Science for Beginners,Michael Clark,Fiction,Tech Books,36.76,978-34-1852674045
+98,Data Science for Beginners,Jane Smith,Food,Global Books,40.99,978-11-4855361038
+99,Understanding Python,Jane Smith,Food,Tech Books,43.28,978-27-7204926719
+100,Understanding Python,Jane Smith,Fiction,XYZ Publishers,22.25,978-10-7941543653
+101,Learning SQL,John Doe,History,ABC Publishers,13.38,978-92-8284104041
+102,Data Science for Beginners,Jane Smith,Non-Fiction,XYZ Publishers,44.82,978-34-7169524748
+103,Understanding Python,Mary Jane,Non-Fiction,XYZ Publishers,35.37,978-52-2053623529
+104,Learning SQL,Jane Smith,History,Booktopia,39.17,978-59-8056908795
+105,Understanding Python,Michael Clark,Fiction,Global Books,27.86,978-95-1620912696
+106,Learning SQL,Emily Davis,Non-Fiction,ABC Publishers,28.91,978-36-1960442810
+107,Learning SQL,Emily Davis,Fiction,ABC Publishers,29.14,978-97-1028024523
+108,The Art of Cooking,Michael Clark,Non-Fiction,Tech Books,30.88,978-38-3233852009
+109,The Art of Cooking,John Doe,Food,Booktopia,23.89,978-92-7850375411
+110,Understanding Python,Jane Smith,Technology,Booktopia,14.84,978-26-4768200471
+111,Learning SQL,Michael Clark,Technology,Booktopia,31.65,978-15-2661280613
+112,The Art of Cooking,Michael Clark,Non-Fiction,Tech Books,44.38,978-95-2300043055
+113,Data Science for Beginners,John Doe,Food,XYZ Publishers,32.62,978-22-1530265617
+114,Data Science for Beginners,Emily Davis,History,ABC Publishers,43.12,978-28-8677260360
+115,Understanding Python,John Doe,Technology,XYZ Publishers,18.08,978-32-3123760742
+116,The Great Adventure,Emily Davis,Fiction,ABC Publishers,10.41,978-93-9567109766
+117,Data Science for Beginners,Mary Jane,Food,XYZ Publishers,22.95,978-77-7020502821
+118,The Great Adventure,Mary Jane,Non-Fiction,Global Books,49.76,978-58-8413885235
+119,The Great Adventure,Michael Clark,History,Tech Books,39.8,978-54-6532661639
+120,The Art of Cooking,John Doe,Technology,XYZ Publishers,22.94,978-18-5078018379
+121,Understanding Python,Emily Davis,Food,Booktopia,48.33,978-69-5423512264
+122,Learning SQL,John Doe,History,ABC Publishers,28.01,978-96-6751089184
+123,Data Science for Beginners,Mary Jane,Fiction,Global Books,14.15,978-86-2091990758
+124,The Art of Cooking,Mary Jane,Food,ABC Publishers,22.09,978-9-2874985595
+125,Data Science for Beginners,Mary Jane,Non-Fiction,Global Books,43.01,978-15-8075221957
+126,Understanding Python,Emily Davis,History,Global Books,38.87,978-14-2383861983
+127,The Great Adventure,Michael Clark,Non-Fiction,Global Books,29.74,978-67-7520631424
+128,Data Science for Beginners,Michael Clark,Technology,Booktopia,21.06,978-35-8615606581
+129,The Great Adventure,Michael Clark,Technology,XYZ Publishers,24.51,978-21-9840641141
+130,Learning SQL,Mary Jane,Fiction,XYZ Publishers,18.96,978-88-6616634342
+131,Data Science for Beginners,Michael Clark,Non-Fiction,Tech Books,32.06,978-9-6818343989
+132,The Great Adventure,John Doe,Food,XYZ Publishers,38.59,978-88-3452051849
+133,Understanding Python,Jane Smith,Fiction,ABC Publishers,40.57,978-58-9238007967
+134,Data Science for Beginners,Mary Jane,Fiction,Global Books,36.08,978-45-8736633112
+135,The Art of Cooking,John Doe,Food,ABC Publishers,46.5,978-40-7990132002
+136,The Art of Cooking,Michael Clark,Non-Fiction,Tech Books,14.39,978-39-1553435500
+137,Learning SQL,Michael Clark,History,Tech Books,40.87,978-91-9918021636
+138,The Great Adventure,Jane Smith,Food,Tech Books,28.52,978-85-5784617483
+139,Understanding Python,John Doe,Non-Fiction,XYZ Publishers,36.19,978-27-1053855860
+140,The Art of Cooking,John Doe,Technology,Booktopia,36.64,978-70-9144619272
+141,Data Science for Beginners,Emily Davis,Non-Fiction,ABC Publishers,32.29,978-98-1148895300
+142,The Great Adventure,Jane Smith,History,Tech Books,43.39,978-42-6847943078
+143,Understanding Python,Michael Clark,Non-Fiction,Global Books,37.57,978-92-2989550835
+144,The Art of Cooking,John Doe,Non-Fiction,XYZ Publishers,37.82,978-2-9021313160
+145,Learning SQL,Emily Davis,Non-Fiction,Booktopia,13.51,978-18-8473457708
+146,The Great Adventure,Mary Jane,Non-Fiction,XYZ Publishers,34.57,978-46-4988349631
+147,The Great Adventure,Emily Davis,Fiction,XYZ Publishers,15.29,978-23-9532633066
+148,The Great Adventure,Mary Jane,Food,XYZ Publishers,27.55,978-72-1498298644
+149,The Great Adventure,Michael Clark,Technology,ABC Publishers,37.08,978-65-5440147497
+150,The Great Adventure,Michael Clark,History,XYZ Publishers,43.18,978-79-3096393256
+151,The Great Adventure,Jane Smith,Technology,XYZ Publishers,22.14,978-57-9981797580
+152,Learning SQL,Emily Davis,Non-Fiction,Global Books,16.11,978-83-3391041979
+153,Understanding Python,Emily Davis,Fiction,Booktopia,23.59,978-83-6466879524
+154,The Art of Cooking,Jane Smith,Non-Fiction,XYZ Publishers,17.19,978-18-8888799709
+155,Learning SQL,Emily Davis,Fiction,Tech Books,28.89,978-37-4793887942
+156,Learning SQL,Emily Davis,Non-Fiction,XYZ Publishers,47.51,978-45-2404091966
+157,Data Science for Beginners,Mary Jane,Fiction,XYZ Publishers,11.46,978-30-6052250900
+158,The Great Adventure,Jane Smith,Technology,Booktopia,22.35,978-38-2041147981
+159,The Art of Cooking,Michael Clark,Non-Fiction,Booktopia,13.82,978-20-8118824448
+160,The Art of Cooking,Mary Jane,History,Booktopia,22.6,978-37-9053000335
+161,Understanding Python,Emily Davis,History,Tech Books,40.1,978-13-6260915804
+162,Understanding Python,Jane Smith,Food,Booktopia,48.23,978-9-8782224086
+163,The Art of Cooking,Emily Davis,Food,ABC Publishers,17.21,978-41-6172758524
+164,Data Science for Beginners,Jane Smith,Technology,Booktopia,41.01,978-21-3778104267
+165,Learning SQL,Mary Jane,Technology,Global Books,26.04,978-91-2615278215
+166,The Art of Cooking,Michael Clark,Technology,Tech Books,36.64,978-18-6466742142
+167,Learning SQL,Michael Clark,Technology,Global Books,12.07,978-70-3548125549
+168,The Great Adventure,Michael Clark,Fiction,Global Books,25.43,978-29-7386200759
+169,The Great Adventure,Jane Smith,Technology,Tech Books,33.57,978-47-9260971948
+170,Understanding Python,Emily Davis,Food,ABC Publishers,30.27,978-70-2392889511
+171,Understanding Python,Michael Clark,Food,ABC Publishers,15.29,978-95-1995389311
+172,The Great Adventure,Emily Davis,Non-Fiction,Global Books,47.5,978-62-1184205199
+173,Understanding Python,John Doe,History,Tech Books,25.84,978-85-5425035230
+174,The Art of Cooking,John Doe,Technology,XYZ Publishers,25.17,978-85-9578646055
+175,The Great Adventure,Emily Davis,Non-Fiction,Booktopia,16.61,978-23-1621416284
+176,Learning SQL,Mary Jane,Fiction,ABC Publishers,22.51,978-83-1466846492
+177,The Great Adventure,Mary Jane,Food,Tech Books,43.4,978-30-9682677071
+178,Understanding Python,Mary Jane,Fiction,Booktopia,39.82,978-90-3929343157
+179,Understanding Python,Michael Clark,Fiction,XYZ Publishers,44.62,978-53-5132473774
+180,The Art of Cooking,Jane Smith,Food,Global Books,13.47,978-79-2156137316
+181,Data Science for Beginners,Emily Davis,Food,ABC Publishers,48.4,978-82-6294797004
+182,The Great Adventure,Jane Smith,Technology,Tech Books,39.71,978-41-6010352500
+183,Learning SQL,John Doe,History,ABC Publishers,18.42,978-39-9230209922
+184,The Art of Cooking,Michael Clark,Non-Fiction,Booktopia,18.0,978-18-6712487548
+185,Data Science for Beginners,John Doe,Fiction,XYZ Publishers,18.3,978-92-2046788625
+186,The Art of Cooking,Mary Jane,History,XYZ Publishers,49.69,978-30-3493912934
+187,The Art of Cooking,Mary Jane,Fiction,ABC Publishers,35.33,978-74-5700723802
+188,The Art of Cooking,Jane Smith,History,Booktopia,24.54,978-83-4838569578
+189,The Art of Cooking,Jane Smith,Non-Fiction,Tech Books,43.16,978-87-2998662780
+190,The Great Adventure,Emily Davis,Fiction,ABC Publishers,20.12,978-64-5174434505
+191,Data Science for Beginners,Emily Davis,Food,ABC Publishers,28.48,978-41-8797866199
+192,Data Science for Beginners,Emily Davis,Fiction,Booktopia,36.46,978-5-3427158780
+193,Learning SQL,Michael Clark,History,XYZ Publishers,22.56,978-38-8229851288
+194,Understanding Python,John Doe,Non-Fiction,Tech Books,44.07,978-10-4727147738
+195,Learning SQL,John Doe,Non-Fiction,Booktopia,20.33,978-40-7049865745
+196,Understanding Python,Jane Smith,Fiction,Booktopia,33.95,978-25-4357094829
+197,The Great Adventure,Mary Jane,Fiction,Tech Books,11.9,978-55-3596045118
+198,Data Science for Beginners,Emily Davis,Fiction,Booktopia,26.16,978-83-2768673681
+199,The Great Adventure,John Doe,Fiction,Tech Books,44.12,978-24-4199314502
+200,Learning SQL,Jane Smith,Food,XYZ Publishers,28.37,978-1-9241721231
+201,The Great Adventure,Jane Smith,History,ABC Publishers,35.84,978-58-9176571339
+202,Understanding Python,Michael Clark,History,Global Books,24.43,978-7-1432901461
+203,Data Science for Beginners,Michael Clark,Food,Booktopia,19.34,978-11-2057094759
+204,The Art of Cooking,Mary Jane,Non-Fiction,Global Books,10.61,978-63-7179250533
+205,The Great Adventure,Jane Smith,Non-Fiction,ABC Publishers,38.26,978-59-3295734858
+206,Learning SQL,John Doe,History,Global Books,42.99,978-90-3438456651
+207,The Art of Cooking,John Doe,Food,ABC Publishers,38.37,978-34-8242715043
+208,Understanding Python,Emily Davis,Technology,Booktopia,12.06,978-87-3676558160
+209,The Great Adventure,Mary Jane,Food,Tech Books,37.18,978-73-9928429176
+210,Understanding Python,Emily Davis,Fiction,Global Books,15.2,978-44-1743813575
+211,Data Science for Beginners,Jane Smith,Food,Booktopia,26.08,978-1-6213343287
+212,Data Science for Beginners,Emily Davis,History,XYZ Publishers,27.18,978-69-8489974777
+213,The Great Adventure,John Doe,Fiction,ABC Publishers,17.69,978-28-9945612770
+214,The Art of Cooking,Jane Smith,Non-Fiction,Global Books,12.52,978-25-2397675188
+215,The Great Adventure,Jane Smith,Non-Fiction,Booktopia,21.35,978-44-3230758438
+216,Data Science for Beginners,Jane Smith,Fiction,Global Books,26.91,978-7-6527047542
+217,The Art of Cooking,Mary Jane,History,ABC Publishers,28.82,978-97-4059965604
+218,The Art of Cooking,Michael Clark,Non-Fiction,ABC Publishers,32.44,978-33-9442918634
+219,Understanding Python,Michael Clark,Non-Fiction,XYZ Publishers,34.26,978-49-8425725193
+220,Learning SQL,Jane Smith,History,ABC Publishers,36.26,978-94-7253096100
+221,The Art of Cooking,Emily Davis,Technology,XYZ Publishers,39.96,978-37-9745129629
+222,The Great Adventure,Mary Jane,History,Booktopia,49.86,978-83-1622987178
+223,Understanding Python,Emily Davis,History,Tech Books,19.75,978-34-1950038298
+224,The Great Adventure,Jane Smith,History,XYZ Publishers,47.48,978-32-1181558822
+225,The Great Adventure,Emily Davis,Fiction,Global Books,34.34,978-89-4408054068
+226,Data Science for Beginners,Emily Davis,Fiction,Booktopia,32.53,978-74-2899466782
+227,The Art of Cooking,Michael Clark,Fiction,XYZ Publishers,41.65,978-59-7929859516
+228,The Art of Cooking,Jane Smith,Food,ABC Publishers,27.81,978-18-4856293349
+229,The Art of Cooking,Mary Jane,Technology,Global Books,20.79,978-74-4141184381
+230,Data Science for Beginners,Jane Smith,History,ABC Publishers,16.65,978-80-5979307833
+231,The Art of Cooking,Mary Jane,Food,XYZ Publishers,25.57,978-32-3143689485
+232,The Art of Cooking,Mary Jane,Technology,Global Books,15.43,978-27-2457706687
+233,Data Science for Beginners,Jane Smith,Fiction,Tech Books,27.04,978-77-4472792814
+234,Learning SQL,Emily Davis,Food,ABC Publishers,28.89,978-49-9518686063
+235,Understanding Python,Jane Smith,Food,Tech Books,48.67,978-22-1119098830
+236,The Art of Cooking,Michael Clark,Non-Fiction,XYZ Publishers,25.01,978-81-7312992360
+237,The Art of Cooking,Mary Jane,History,Booktopia,37.15,978-59-3990288321
+238,Learning SQL,Michael Clark,History,Tech Books,16.88,978-85-5158966332
+239,Understanding Python,John Doe,History,ABC Publishers,34.96,978-55-4955810802
+240,Learning SQL,John Doe,Non-Fiction,Global Books,49.42,978-86-7223122920
+241,The Great Adventure,John Doe,Food,Global Books,49.59,978-11-9694005125
+242,Data Science for Beginners,Mary Jane,Technology,Tech Books,18.79,978-20-8459564210
+243,The Art of Cooking,Michael Clark,Non-Fiction,Tech Books,31.25,978-59-1443695815
+244,The Great Adventure,Michael Clark,History,XYZ Publishers,10.56,978-36-4392543787
+245,The Great Adventure,Jane Smith,Non-Fiction,Booktopia,29.92,978-40-9954446539
+246,Understanding Python,Mary Jane,History,Global Books,11.45,978-33-5689640534
+247,Learning SQL,John Doe,Food,Booktopia,34.3,978-18-1872853392
+248,The Art of Cooking,Emily Davis,History,XYZ Publishers,46.01,978-7-7297016021
+249,Understanding Python,Jane Smith,History,XYZ Publishers,27.73,978-34-7418324218
+250,Learning SQL,Jane Smith,Non-Fiction,Tech Books,29.93,978-57-7935134257
+251,The Great Adventure,John Doe,Fiction,ABC Publishers,46.07,978-83-7305569397
+252,Understanding Python,John Doe,Technology,Global Books,14.74,978-31-1608837981
+253,The Art of Cooking,Mary Jane,Fiction,ABC Publishers,46.98,978-36-4281585864
+254,The Art of Cooking,Michael Clark,History,Global Books,48.83,978-55-4085055533
+255,The Art of Cooking,Emily Davis,History,XYZ Publishers,22.82,978-12-7028082125
+256,Understanding Python,Michael Clark,History,Tech Books,34.2,978-88-9357236191
+257,Understanding Python,John Doe,History,ABC Publishers,29.76,978-85-3589170353
+258,The Art of Cooking,Michael Clark,Technology,ABC Publishers,21.73,978-12-2531398153
+259,The Great Adventure,Mary Jane,Technology,Tech Books,22.46,978-22-5277745657
+260,Learning SQL,John Doe,Non-Fiction,XYZ Publishers,12.65,978-99-3458292319
+261,The Great Adventure,Mary Jane,Food,Booktopia,34.53,978-22-3782714931
+262,The Art of Cooking,John Doe,Fiction,Booktopia,46.06,978-6-8149959311
+263,The Great Adventure,John Doe,Technology,Tech Books,19.62,978-56-6884154088
+264,Understanding Python,John Doe,Fiction,Global Books,28.97,978-50-1311798807
+265,Data Science for Beginners,Emily Davis,Food,Booktopia,32.29,978-58-1247136288
+266,Data Science for Beginners,Michael Clark,Fiction,Booktopia,34.46,978-1-3440978915
+267,The Art of Cooking,Mary Jane,Food,Tech Books,39.84,978-35-4249702620
+268,Learning SQL,Michael Clark,Food,Booktopia,14.93,978-55-7540025404
+269,Learning SQL,Mary Jane,History,Tech Books,42.08,978-17-1928787450
+270,The Great Adventure,Emily Davis,Fiction,Booktopia,35.83,978-93-3481450431
+271,The Great Adventure,John Doe,Food,Global Books,46.43,978-14-2604772721
+272,Learning SQL,Jane Smith,Fiction,Booktopia,47.32,978-30-9220090417
+273,The Art of Cooking,Jane Smith,Fiction,ABC Publishers,12.33,978-21-5789227743
+274,The Art of Cooking,Jane Smith,Technology,XYZ Publishers,23.3,978-6-4361454382
+275,The Great Adventure,Mary Jane,History,Global Books,20.21,978-93-8082063089
+276,The Great Adventure,Jane Smith,Technology,Tech Books,32.38,978-12-3627533317
+277,Understanding Python,Michael Clark,Food,XYZ Publishers,27.67,978-36-1707887262
+278,The Art of Cooking,Mary Jane,Technology,Tech Books,18.04,978-56-5263188840
+279,Data Science for Beginners,John Doe,History,ABC Publishers,10.1,978-35-3000088064
+280,The Great Adventure,Jane Smith,Technology,Global Books,17.85,978-73-1038634729
+281,Data Science for Beginners,John Doe,Non-Fiction,Booktopia,47.0,978-30-2906192333
+282,Learning SQL,Michael Clark,History,Tech Books,25.69,978-38-6113975319
+283,Data Science for Beginners,Michael Clark,Fiction,Global Books,49.34,978-59-2982250397
+284,Data Science for Beginners,Mary Jane,Fiction,Booktopia,48.97,978-12-5082780942
+285,The Great Adventure,Mary Jane,Non-Fiction,Tech Books,24.72,978-45-1818705993
+286,Understanding Python,Michael Clark,Non-Fiction,XYZ Publishers,17.36,978-83-3453575391
+287,Understanding Python,Emily Davis,Food,Global Books,43.61,978-53-3285466477
+288,The Art of Cooking,Mary Jane,Non-Fiction,Tech Books,17.87,978-3-4028493175
+289,The Great Adventure,Mary Jane,Non-Fiction,ABC Publishers,36.95,978-7-4286344841
+290,Data Science for Beginners,Mary Jane,Non-Fiction,Booktopia,39.67,978-33-1647578823
+291,Learning SQL,Mary Jane,Fiction,Booktopia,22.06,978-28-4873430755
+292,Learning SQL,Mary Jane,Food,ABC Publishers,10.39,978-28-2332949821
+293,The Great Adventure,Michael Clark,Non-Fiction,Booktopia,44.86,978-85-7632448379
+294,Data Science for Beginners,Michael Clark,Fiction,ABC Publishers,32.46,978-30-4788862348
+295,Data Science for Beginners,Jane Smith,Technology,Tech Books,11.04,978-61-1589279705
+296,Learning SQL,Mary Jane,Fiction,Global Books,30.23,978-13-9309042433
+297,The Art of Cooking,Michael Clark,Fiction,XYZ Publishers,24.37,978-45-2181940370
+298,The Art of Cooking,Jane Smith,Technology,XYZ Publishers,46.62,978-21-4194710056
+299,Understanding Python,Michael Clark,Technology,Global Books,24.49,978-47-9708706617
+300,Understanding Python,Mary Jane,Fiction,XYZ Publishers,14.7,978-67-7098468677
+301,Learning SQL,Jane Smith,Fiction,ABC Publishers,16.48,978-37-4562408927
+302,The Art of Cooking,Mary Jane,Non-Fiction,Booktopia,49.64,978-80-9725921323
+303,Learning SQL,Jane Smith,Non-Fiction,Booktopia,44.29,978-89-4308240483
+304,Learning SQL,Jane Smith,Technology,Global Books,12.17,978-73-6591484266
+305,Learning SQL,Emily Davis,Food,Booktopia,44.73,978-71-8411256165
+306,The Great Adventure,Emily Davis,Fiction,Booktopia,23.14,978-53-2101252483
+307,Data Science for Beginners,Michael Clark,History,Tech Books,32.18,978-26-9374931417
+308,The Great Adventure,Mary Jane,Technology,Tech Books,28.46,978-3-7042117442
+309,Understanding Python,John Doe,Technology,ABC Publishers,15.41,978-4-5662436379
+310,The Art of Cooking,Mary Jane,Food,Tech Books,25.44,978-71-7462542242
+311,The Art of Cooking,Emily Davis,Technology,Tech Books,46.82,978-38-9331143360
+312,The Art of Cooking,Michael Clark,Non-Fiction,XYZ Publishers,46.86,978-3-7765754401
+313,Understanding Python,Emily Davis,Food,Global Books,43.44,978-33-9153640092
+314,The Art of Cooking,John Doe,Food,XYZ Publishers,35.55,978-30-9183197049
+315,The Great Adventure,Michael Clark,Fiction,XYZ Publishers,21.37,978-93-4613608115
+316,Understanding Python,Mary Jane,Non-Fiction,Booktopia,48.2,978-40-5195500820
+317,The Art of Cooking,Emily Davis,Food,Booktopia,34.7,978-99-5166228766
+318,Understanding Python,Mary Jane,Food,Tech Books,15.12,978-29-1481639115
+319,The Great Adventure,Jane Smith,Non-Fiction,Tech Books,22.32,978-78-8398043581
+320,Data Science for Beginners,Jane Smith,Technology,XYZ Publishers,11.46,978-86-6489074618
+321,Understanding Python,Emily Davis,Food,Tech Books,41.28,978-56-3529262808
+322,Understanding Python,John Doe,Food,Booktopia,43.26,978-95-5833527621
+323,The Great Adventure,Mary Jane,Fiction,XYZ Publishers,40.88,978-13-9346825220
+324,Data Science for Beginners,Emily Davis,Fiction,XYZ Publishers,37.63,978-39-3215818311
+325,The Great Adventure,Emily Davis,Technology,Tech Books,42.76,978-20-7222539430
+326,Learning SQL,Emily Davis,Technology,Booktopia,10.0,978-16-2121140843
+327,Learning SQL,Emily Davis,Fiction,ABC Publishers,37.51,978-5-9868197703
+328,Understanding Python,Mary Jane,History,Tech Books,21.74,978-31-1459547871
+329,Understanding Python,Emily Davis,Food,Global Books,17.01,978-96-3848145443
+330,Understanding Python,Mary Jane,Non-Fiction,Global Books,32.84,978-60-6961333026
+331,The Great Adventure,John Doe,Food,Tech Books,45.33,978-43-8198394801
+332,Understanding Python,Emily Davis,Technology,ABC Publishers,10.38,978-91-3857684067
+333,Understanding Python,Michael Clark,Technology,Booktopia,11.47,978-39-8146358046
+334,The Art of Cooking,Mary Jane,Non-Fiction,Global Books,20.5,978-46-3513446989
+335,The Great Adventure,Mary Jane,History,Global Books,13.38,978-66-2442487085
+336,Understanding Python,Emily Davis,Food,Global Books,12.72,978-40-4484986503
+337,Data Science for Beginners,Michael Clark,Non-Fiction,Global Books,48.53,978-87-3388576233
+338,Data Science for Beginners,Mary Jane,Food,ABC Publishers,24.77,978-76-5600196798
+339,The Great Adventure,Michael Clark,Non-Fiction,Booktopia,23.21,978-5-3593708188
+340,Learning SQL,Emily Davis,Non-Fiction,Booktopia,42.58,978-93-6871754859
+341,Learning SQL,Mary Jane,Food,Global Books,37.5,978-10-1663931647
+342,Learning SQL,Mary Jane,Food,Tech Books,40.49,978-41-5060350744
+343,Understanding Python,Emily Davis,Fiction,Booktopia,25.91,978-62-9730361836
+344,The Art of Cooking,Emily Davis,Technology,Booktopia,42.86,978-79-7118229304
+345,Understanding Python,Emily Davis,Technology,Global Books,36.95,978-16-2365269874
+346,Understanding Python,Mary Jane,Food,ABC Publishers,19.27,978-58-2587759547
+347,The Great Adventure,Mary Jane,History,Booktopia,15.49,978-58-4288521149
+348,The Art of Cooking,Emily Davis,Non-Fiction,ABC Publishers,36.17,978-87-5799815383
+349,Learning SQL,Jane Smith,Food,Global Books,49.66,978-56-7265145672
+350,The Great Adventure,Mary Jane,Fiction,XYZ Publishers,49.07,978-19-1312628824
+351,The Great Adventure,John Doe,Technology,Booktopia,29.28,978-98-6564953009
+352,Understanding Python,Emily Davis,Fiction,ABC Publishers,20.16,978-27-7564443843
+353,Learning SQL,Michael Clark,Technology,Booktopia,39.95,978-50-4678582498
+354,The Art of Cooking,Michael Clark,Fiction,Global Books,46.95,978-11-3406503602
+355,The Art of Cooking,John Doe,History,Booktopia,33.35,978-7-6687223070
+356,Understanding Python,John Doe,Fiction,Tech Books,23.44,978-81-1312027645
+357,The Great Adventure,Michael Clark,Non-Fiction,Tech Books,10.65,978-96-8720602966
+358,Data Science for Beginners,Emily Davis,Food,Global Books,43.31,978-13-2187868029
+359,Understanding Python,John Doe,Fiction,Global Books,38.35,978-4-5386033808
+360,Understanding Python,Michael Clark,Food,Tech Books,40.92,978-32-9949246903
+361,Understanding Python,John Doe,Non-Fiction,Booktopia,22.96,978-87-7831592320
+362,Data Science for Beginners,Emily Davis,Technology,ABC Publishers,40.67,978-71-7808684662
+363,Learning SQL,Michael Clark,Fiction,ABC Publishers,39.78,978-22-3542845751
+364,The Art of Cooking,Emily Davis,History,XYZ Publishers,18.0,978-84-4292834308
+365,Data Science for Beginners,Emily Davis,Non-Fiction,Booktopia,38.22,978-38-9239945252
+366,The Great Adventure,Emily Davis,History,Tech Books,17.7,978-6-4672889037
+367,The Art of Cooking,Mary Jane,Food,Global Books,45.27,978-56-1853428652
+368,Understanding Python,John Doe,Non-Fiction,Tech Books,12.2,978-63-8662469235
+369,The Art of Cooking,Michael Clark,Fiction,XYZ Publishers,13.84,978-59-1808566025
+370,The Art of Cooking,Emily Davis,Food,ABC Publishers,48.66,978-80-4023404431
+371,Learning SQL,John Doe,Food,Tech Books,27.9,978-32-4646667701
+372,The Art of Cooking,Emily Davis,Non-Fiction,Tech Books,37.92,978-77-5081031250
+373,The Great Adventure,Jane Smith,Non-Fiction,ABC Publishers,43.99,978-97-6686219883
+374,Data Science for Beginners,Michael Clark,Non-Fiction,Booktopia,42.49,978-61-2083632319
+375,The Great Adventure,Emily Davis,Food,ABC Publishers,43.01,978-58-4285854063
+376,The Great Adventure,Emily Davis,Technology,Global Books,22.32,978-75-4020306757
+377,The Great Adventure,Jane Smith,History,Tech Books,15.68,978-30-6856460909
+378,The Great Adventure,Emily Davis,Food,Tech Books,14.38,978-14-6902186075
+379,The Great Adventure,Michael Clark,Food,Tech Books,39.16,978-3-2445206220
+380,Learning SQL,Michael Clark,History,Global Books,39.09,978-9-5027335954
+381,Understanding Python,John Doe,Non-Fiction,XYZ Publishers,46.06,978-44-4367148262
+382,Data Science for Beginners,Jane Smith,Food,ABC Publishers,16.66,978-1-7928707354
+383,Learning SQL,Jane Smith,Food,Booktopia,35.53,978-76-4430509785
+384,The Art of Cooking,Michael Clark,Non-Fiction,Booktopia,32.01,978-66-4088643596
+385,The Great Adventure,Michael Clark,Food,ABC Publishers,41.31,978-47-2147774566
+386,Understanding Python,John Doe,History,ABC Publishers,16.63,978-14-4845908141
+387,The Great Adventure,Jane Smith,History,XYZ Publishers,37.94,978-66-5728945228
+388,The Art of Cooking,Mary Jane,Fiction,Tech Books,33.03,978-27-6788332283
+389,Learning SQL,Jane Smith,Fiction,Booktopia,34.02,978-65-5504840952
+390,Learning SQL,Michael Clark,Fiction,Tech Books,14.76,978-33-5517814673
+391,The Great Adventure,Mary Jane,Non-Fiction,ABC Publishers,34.2,978-13-6865249450
+392,The Great Adventure,Mary Jane,Fiction,Booktopia,40.82,978-39-6654697386
+393,The Art of Cooking,Emily Davis,Fiction,Booktopia,43.05,978-32-8848928100
+394,Data Science for Beginners,John Doe,Food,XYZ Publishers,28.5,978-69-6397987578
+395,The Art of Cooking,Jane Smith,History,ABC Publishers,14.11,978-82-9470837429
+396,The Great Adventure,Jane Smith,Food,Booktopia,45.82,978-3-7362142022
+397,Understanding Python,Michael Clark,Food,XYZ Publishers,25.81,978-51-8653635419
+398,The Great Adventure,Emily Davis,Fiction,ABC Publishers,49.43,978-73-9296186216
+399,The Art of Cooking,Mary Jane,Food,ABC Publishers,41.32,978-25-2623078434
+400,Data Science for Beginners,Jane Smith,History,Global Books,30.99,978-63-5820646163
+401,Learning SQL,Mary Jane,History,ABC Publishers,49.64,978-6-2376294290
+402,Data Science for Beginners,Jane Smith,Food,Global Books,48.32,978-89-4556305084
+403,Learning SQL,Michael Clark,Fiction,Global Books,27.53,978-15-1845529636
+404,Learning SQL,Emily Davis,Fiction,Booktopia,16.37,978-32-9126690973
+405,The Great Adventure,Emily Davis,Food,Global Books,49.96,978-58-6935080343
+406,Data Science for Beginners,Mary Jane,Fiction,ABC Publishers,32.5,978-40-3462617050
+407,The Great Adventure,John Doe,Food,ABC Publishers,30.97,978-3-9771900047
+408,Learning SQL,Michael Clark,Non-Fiction,ABC Publishers,48.69,978-68-4072543332
+409,Understanding Python,Mary Jane,Food,Global Books,17.58,978-33-9343595593
+410,The Art of Cooking,Michael Clark,History,ABC Publishers,33.94,978-49-6810499173
+411,Learning SQL,John Doe,Fiction,ABC Publishers,16.22,978-84-4919160005
+412,The Great Adventure,Emily Davis,Food,Global Books,15.88,978-29-4932915262
+413,Data Science for Beginners,Jane Smith,Fiction,XYZ Publishers,27.51,978-41-1774476828
+414,The Art of Cooking,Emily Davis,Non-Fiction,ABC Publishers,44.87,978-18-8430799841
+415,Learning SQL,Mary Jane,Fiction,Tech Books,41.15,978-12-5715458830
+416,Learning SQL,John Doe,Technology,XYZ Publishers,19.02,978-31-6516216337
+417,Learning SQL,John Doe,Technology,ABC Publishers,22.33,978-4-6655386731
+418,The Art of Cooking,Emily Davis,Non-Fiction,Booktopia,11.88,978-75-8526043757
+419,The Great Adventure,Mary Jane,Non-Fiction,Global Books,36.8,978-49-3122678803
+420,Learning SQL,John Doe,Technology,ABC Publishers,35.55,978-60-6275765903
+421,The Great Adventure,Emily Davis,Food,Tech Books,16.33,978-28-4698364989
+422,Understanding Python,Emily Davis,Non-Fiction,Tech Books,40.54,978-93-4678599835
+423,The Great Adventure,Mary Jane,Food,Tech Books,18.69,978-45-8271479961
+424,Data Science for Beginners,John Doe,Food,ABC Publishers,26.77,978-78-2322988287
+425,The Art of Cooking,Jane Smith,Food,ABC Publishers,44.5,978-97-9981209072
+426,Data Science for Beginners,Michael Clark,Food,Global Books,45.09,978-59-1810531499
+427,Learning SQL,Jane Smith,Technology,ABC Publishers,24.81,978-73-8622504629
+428,Data Science for Beginners,Mary Jane,Technology,XYZ Publishers,12.28,978-48-4814889764
+429,The Great Adventure,Michael Clark,Food,Tech Books,47.19,978-66-6003233833
+430,Understanding Python,Jane Smith,History,ABC Publishers,46.02,978-78-5075670500
+431,The Art of Cooking,Emily Davis,Fiction,XYZ Publishers,34.8,978-76-1717295822
+432,Data Science for Beginners,John Doe,Food,XYZ Publishers,41.67,978-48-8782988938
+433,The Great Adventure,Jane Smith,Fiction,Tech Books,29.35,978-74-6256461344
+434,The Art of Cooking,Mary Jane,Technology,Tech Books,29.54,978-81-1325103933
+435,Understanding Python,Michael Clark,Non-Fiction,ABC Publishers,36.01,978-94-9050279921
+436,Data Science for Beginners,Michael Clark,Non-Fiction,XYZ Publishers,31.36,978-93-2408447963
+437,The Great Adventure,Michael Clark,Technology,ABC Publishers,14.49,978-35-2737435814
+438,Learning SQL,Michael Clark,Technology,Global Books,47.98,978-82-7580009159
+439,Understanding Python,Mary Jane,Fiction,XYZ Publishers,48.12,978-66-8308775781
+440,The Great Adventure,Mary Jane,Food,XYZ Publishers,21.02,978-54-7004885533
+441,Data Science for Beginners,John Doe,Fiction,XYZ Publishers,23.59,978-95-6839965189
+442,The Art of Cooking,John Doe,Non-Fiction,XYZ Publishers,31.91,978-82-9326226934
+443,The Art of Cooking,John Doe,History,Tech Books,13.04,978-84-7289085773
+444,The Art of Cooking,Jane Smith,Fiction,Tech Books,47.76,978-51-9308866549
+445,Data Science for Beginners,John Doe,Food,Booktopia,41.44,978-75-9038422168
+446,The Great Adventure,Jane Smith,History,ABC Publishers,34.56,978-16-2176893284
+447,Data Science for Beginners,John Doe,Technology,Booktopia,37.61,978-20-9210142367
+448,Understanding Python,Emily Davis,History,XYZ Publishers,29.95,978-70-5047193081
+449,Data Science for Beginners,Michael Clark,History,Booktopia,48.36,978-89-8079299954
+450,Understanding Python,John Doe,Non-Fiction,Tech Books,45.76,978-22-8494406860
+451,The Art of Cooking,Jane Smith,Fiction,Global Books,29.56,978-80-8175849245
+452,Understanding Python,Mary Jane,History,Global Books,49.73,978-20-8236835253
+453,Data Science for Beginners,Michael Clark,History,Tech Books,17.91,978-60-2623346343
+454,Understanding Python,Jane Smith,Technology,Global Books,43.16,978-43-7794349136
+455,The Great Adventure,Mary Jane,Food,Booktopia,24.0,978-55-7559081600
+456,Understanding Python,Jane Smith,Non-Fiction,Tech Books,32.08,978-90-1052642028
+457,Understanding Python,Jane Smith,Non-Fiction,Global Books,41.2,978-14-7858410677
+458,Learning SQL,Mary Jane,Food,Global Books,11.71,978-86-9215359865
+459,Understanding Python,Mary Jane,Non-Fiction,Global Books,44.88,978-75-3765771347
+460,Data Science for Beginners,Emily Davis,Food,Tech Books,40.46,978-54-4527241314
+461,Learning SQL,Michael Clark,Non-Fiction,XYZ Publishers,35.71,978-57-5207020671
+462,The Art of Cooking,Emily Davis,Technology,XYZ Publishers,38.42,978-62-8792920915
+463,Learning SQL,John Doe,Fiction,Tech Books,42.93,978-98-7022503678
+464,The Art of Cooking,Jane Smith,History,Booktopia,34.83,978-97-1677259977
+465,Learning SQL,Jane Smith,Fiction,XYZ Publishers,44.82,978-56-5284192139
+466,Understanding Python,Mary Jane,Food,Booktopia,33.22,978-66-2611394579
+467,The Great Adventure,John Doe,Fiction,ABC Publishers,37.41,978-51-8869388759
+468,The Great Adventure,Jane Smith,Fiction,Tech Books,14.87,978-18-9504414961
+469,Data Science for Beginners,Jane Smith,Food,Booktopia,26.27,978-36-1922996496
+470,Learning SQL,Emily Davis,Non-Fiction,XYZ Publishers,20.48,978-68-6228919024
+471,Data Science for Beginners,Jane Smith,Technology,XYZ Publishers,49.22,978-17-2512344145
+472,The Art of Cooking,Emily Davis,Non-Fiction,Tech Books,31.92,978-93-7694132999
+473,Learning SQL,Emily Davis,Fiction,XYZ Publishers,34.56,978-50-9522991945
+474,The Art of Cooking,Emily Davis,Fiction,Booktopia,36.44,978-80-4893342642
+475,Data Science for Beginners,John Doe,Food,Global Books,45.54,978-60-9101301166
+476,Data Science for Beginners,Michael Clark,Technology,Booktopia,13.61,978-64-9376853319
+477,Data Science for Beginners,John Doe,Non-Fiction,Tech Books,27.83,978-33-1539114730
+478,Data Science for Beginners,Michael Clark,Food,Global Books,44.46,978-72-9148467455
+479,Data Science for Beginners,John Doe,History,ABC Publishers,49.9,978-32-5955267503
+480,Understanding Python,Emily Davis,Fiction,Global Books,45.51,978-9-6627749487
+481,The Great Adventure,Jane Smith,History,XYZ Publishers,31.0,978-31-3090631410
+482,Understanding Python,Mary Jane,Food,Global Books,47.0,978-27-4863302908
+483,Data Science for Beginners,Mary Jane,Fiction,XYZ Publishers,27.0,978-85-1393077576
+484,Learning SQL,Emily Davis,Fiction,XYZ Publishers,21.53,978-52-1014335986
+485,Data Science for Beginners,Emily Davis,Fiction,XYZ Publishers,15.99,978-59-2113922252
+486,Understanding Python,John Doe,History,Global Books,19.85,978-52-6268944878
+487,The Great Adventure,Michael Clark,Technology,Global Books,34.9,978-35-5741548671
+488,Data Science for Beginners,Emily Davis,Technology,Booktopia,10.64,978-30-6798946922
+489,Learning SQL,Jane Smith,Non-Fiction,XYZ Publishers,17.71,978-95-1940206611
+490,The Art of Cooking,Jane Smith,Food,Global Books,48.32,978-81-6948098014
+491,The Great Adventure,Emily Davis,History,Global Books,30.14,978-62-1456190567
+492,Data Science for Beginners,Jane Smith,History,Booktopia,44.91,978-44-3767994601
+493,The Great Adventure,Jane Smith,History,Booktopia,46.91,978-93-8995794113
+494,Understanding Python,Michael Clark,Non-Fiction,Global Books,17.12,978-19-9576399692
+495,Understanding Python,John Doe,Fiction,Tech Books,43.96,978-30-3290600093
+496,Learning SQL,Emily Davis,Food,Booktopia,44.01,978-85-3932511863
+497,Understanding Python,John Doe,Technology,XYZ Publishers,39.36,978-45-5034825154
+498,Understanding Python,Emily Davis,Non-Fiction,Booktopia,26.53,978-53-7178625188
+499,Data Science for Beginners,Michael Clark,Non-Fiction,Booktopia,30.54,978-68-1447438371
+500,Understanding Python,Emily Davis,Technology,ABC Publishers,47.51,978-2-5678843523
