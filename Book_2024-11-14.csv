@@ -497,5 +497,7 @@ Book_ID,Book_Title,Author,Genre,Publisher,Price,ISBN
 496,Learning SQL,Emily Davis,Food,Booktopia,44.01,978-85-3932511863
 497,Understanding Python,John Doe,Technology,XYZ Publishers,39.36,978-45-5034825154
 498,Understanding Python,Emily Davis,Non-Fiction,Booktopia,26.53,978-53-7178625188
+499,Understanding Python,Emily Davis,Non-Fiction,Booktopia,26.53,978-53-7178625188
+500,Understanding Python,Emily Davis,Non-Fiction,Booktopia,-8,978-53-7178625181
 499,Data Science for Beginners,Michael Clark,Non-Fiction,Booktopia,30.54,978-68-1447438371
 500,Understanding Python,Emily Davis,Technology,ABC Publishers,47.51,978-2-5678843523
