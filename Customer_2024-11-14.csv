@@ -3,7 +3,7 @@ Customer_ID,Customer_Name,Email,Age_Group,Location,Member_Since
 2,Michael Clark,john.doe@example.com,18-25,Chicago,21/03/21
 3,James Bond,mary.jane@example.com,56+,New York,21/06/21
 4,Emily Davis,clark.kent@example.com,46-55,Boston,28/05/21
-5,Clark Kent,jane.smith@example.com,56+,Denver,22/09/21
+5,Clark Kent,NULL,56+,Denver,22/09/21
 6,Emily Davis,michael.clark@example.com,56+,New York,12/10/21
 7,Emily Davis,robert.brown@example.com,46-55,Seattle,17/05/23
 8,Clark Kent,robert.brown@example.com,36-45,Denver,04/07/23
@@ -31,7 +31,7 @@ Customer_ID,Customer_Name,Email,Age_Group,Location,Member_Since
 30,John Doe,bruce.wayne@example.com,46-55,Seattle,07/12/23
 31,Bruce Wayne,bruce.wayne@example.com,26-35,Miami,17/07/21
 32,Mary Jane,jane.smith@example.com,36-45,Los Angeles,27/12/21
-33,Sarah Connor,robert.brown@example.com,56+,Los Angeles,05/07/21
+33,Sarah Connor,robert.brown@example.com,60,Los Angeles,05/07/21
 34,Clark Kent,bruce.wayne@example.com,56+,San Francisco,23/12/22
 35,Clark Kent,sarah.connor@example.com,18-25,Chicago,17/02/23
 36,Clark Kent,bruce.wayne@example.com,56+,Chicago,14/11/21
